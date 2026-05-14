@@ -18,13 +18,6 @@
 - **Sans verbosité inutile** : pas de tour de phrase inutiles
 - **Liens & références** : pointer les sources ou fichiers pertinents
 
-### Documentation
-- Privilégier les **documents synthétiques en markdown**
-- Inclure une **structure de navigation logique** :
-  - Sommaires clairs avec liens internes
-  - Liens "retour au sommaire" à chaque section
-  - Chemins de navigation explicites
-
 ## 🛠️ Domaines d'Expertise Attendus
 
 1. **Architecture & Design Patterns**
